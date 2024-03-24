@@ -20,4 +20,4 @@ We welcome contributions from the community! Whether it's fixing a typo, improvi
 If you have any questions, feedback, or encounter issues, don't hesitate to reach out. Join our training channel or open an issue here on GitHub, and our team will be happy to assist you.
 
 ## License
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the materials for personal or commercial purposes, with proper attribution.
+This project is licensed under the [MIT License](LICENSE). Do not use, modify, and distribute the materials for personal or commercial purposes, with0ut proper attribution.
