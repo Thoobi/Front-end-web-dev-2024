@@ -1,0 +1,16 @@
+{
+  "name": "front-end-web-dev-2024",
+  "version": "1.0.0",
+  "description": "Welcome to the Frontend Development training repository! This comprehensive 8-week course is designed to equip you with the essential skills and knowledge needed to become proficient in frontend web development. From foundational HTML, CSS, and JavaScript concepts to advanced topics covering popular framework like React, this training offers a structured learning path for beginners and aspiring developers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "jsdom": "^24.0.0"
+  }
+}

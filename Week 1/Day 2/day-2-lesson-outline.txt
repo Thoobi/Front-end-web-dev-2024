@@ -1,0 +1,10 @@
+HTML tags and attributes
+
+Lesson reference
+https://www.w3schools.com/html/html_attributes.asp (HTML attributes)
+https://www.w3schools.com/tags/tag_html.asp (HTML tags)
+https://www.freecodecamp.org/news/html-crash-course/ (Trivia time)
+
+
+HTML tags are used to hold the HTML element. HTML element holds the content. HTML attributes are used to describe the characteristics of an HTML element in detail. HTML tag starts with < and ends with > Whatever written within a HTML tag are HTML elements.
+Let us explore some HTML tags (refer to w3schools)

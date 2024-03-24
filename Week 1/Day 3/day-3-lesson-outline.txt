@@ -1,0 +1,3 @@
+Creating Headings, Paragraphs, Lists, Links, and Adding Images and Videos
+
+Objective: Learn how to structure and add content to a web page using HTML headings, paragraphs, lists, links, images, and videos.

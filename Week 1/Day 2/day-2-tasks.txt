@@ -1,0 +1,7 @@
+#Class exercise
+Trivia time:https://www.freecodecamp.org/news/html-crash-course/ (search “trivia” with CTRL + F) 
+
+Create an html only web page of your favorite African food, include an about section of your preferred meal and list of the ingredients .
+
+#Assignment
+HTML assignment pdf Number 7 {you can make it an extension of your favorite african dish website, may be a page of how to make the dish and a youtube video on it}

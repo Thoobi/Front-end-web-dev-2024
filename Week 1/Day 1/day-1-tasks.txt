@@ -1,0 +1,5 @@
+#Class exercise
+Create a simple html document with title, heading, and paragraph
+
+#Assignment
+Set up your Github account (by watching this video - https://youtu.be/tRZGeaHPoaw?si=xBItsmPO38DfDFLx)

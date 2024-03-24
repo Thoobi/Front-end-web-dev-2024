@@ -1,0 +1,54 @@
+Lesson Topic: Basic HTML Structure
+
+Objective: Introduce students to the fundamental structure of an HTML document and familiarize them with essential tools for web development.
+
+Duration: 2 hours
+
+Tools Needed:
+- Text Editor (e.g., Visual Studio Code)
+- Web Browser (e.g., Google Chrome)
+- Presentation Software (e.g., Zoom)
+- Github account (ask students to set up by watching this video - https://youtu.be/tRZGeaHPoaw?si=xBItsmPO38DfDFLx)
+- Interactive Whiteboard or Screen Sharing Software (if teaching virtually)
+- Padlet (for evaluation)
+- Code Playground (optional)
+- Handouts or Digital Resources
+
+Lesson Outline:
+
+1. Introduction (5 mins)
+   - Brief overview of the importance of HTML in web development.
+   - Introduction of essential tools for the lesson.
+
+2. Basic HTML Structure (15 mins)
+   - Explanation of the basic structure of an HTML document:
+     - <!DOCTYPE html>
+     - <html>
+     - <head>
+     - <title>
+     - <body>
+   - Purpose of each element and their hierarchical relationship.
+
+3. Text Editor Demonstration (20 mins)
+Demonstrate to students to install VS code
+- Open the text editor (e.g., Visual Studio Code) and create a new HTML file.
+   - Typing the basic HTML structure code into the text editor, explaining each element.
+   - Saving the file with a .html extension and previewing it in the web browser.
+
+4. Interactive Exercise (15 mins)
+   - Provide students with a simple HTML document template without the structure.
+   - Task students with completing the HTML structure based on what they've learned.
+   - Encourage experimentation and questions.
+
+5. Discussion and Recap (5 mins)
+   - Address any questions or clarifications needed.
+   - Recap key points covered in the lesson.
+
+6. Class(task)
+   - Create a basic HTML document following the structure taught in class.
+   - Provide resources or handouts for reference.
+
+Side Notes:
+- Ensure students actively participate in the demonstration and exercise.
+- Emphasize the importance of understanding the basic HTML structure for future lessons.
+- Encourage students to explore additional online tutorials or documentation for further practice.

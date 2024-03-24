@@ -1,0 +1,20 @@
+name: Autograding
+
+on:
+  push:
+    branches:
+      - main  # Adjust this branch name if needed
+
+jobs:
+  autograding:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run tests
+        run: npm test  # Adjust this command if your test command is different

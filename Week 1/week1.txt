@@ -1,0 +1,6 @@
+Week 1
+Introduction to HTML
+ Basic HTML structure
+ HTML tags and attributes 
+ Creating headings, paragraphs, lists, links and Adding images and videos 
+ Understanding semantic HTML

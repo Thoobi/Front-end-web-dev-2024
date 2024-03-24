@@ -1,0 +1,34 @@
+Class Exercise: HTML Practice
+
+Objective: Apply the concepts learned in the lesson to create a simple webpage.
+
+Exercise Description:
+1. Create a Webpage:
+   - Using a text editor, create a new HTML file named "my_website.html".
+   - Structure the web page with headings, paragraphs, lists, links, images, and a video.
+   - Choose a topic for your webpage (e.g., favorite hobby, travel destination, or personal project) and include relevant content.
+   
+2. Include the Following Elements:
+   - Headings: Use at least one `<h1>` heading for the main title of your webpage.
+   - Paragraphs: Include a brief description of your chosen topic using `<p>` tags.
+   - Lists: Create both an unordered and an ordered list related to your topic using `<ul>` and `<ol>` tags, respectively.
+   - Links: Add at least one hyperlink to an external website using `<a>` tags. You can link to a related article, your social media profile, or any other relevant resource.
+   - Images: Insert at least one image related to your topic using the `<img>` tag. Ensure you include the `src` attribute with the path to your image file and provide a descriptive `alt` attribute.
+   - Video: Embed a video related to your topic using the `<video>` tag. You can use a video from an online platform like YouTube or Vimeo. Make sure to include the `src` attribute with the URL of the video and add the `controls` attribute for playback controls.
+
+Assignment: HTML Web Page Creation
+
+Objective: Create a webpage based on a chosen topic using HTML elements covered in the lesson.
+
+Instructions:
+1. Topic Selection: Choose a topic that interests you or relates to your personal experiences. It could be about your favorite hobby, a travel destination you've visited, a recipe you love, or any other topic of your choice.
+  
+2. Content Creation: Develop content for your webpage based on the chosen topic. Include text descriptions, lists, hyperlinks, images, and a video (if applicable) to provide a comprehensive overview.
+
+3. HTML Coding: Write the HTML code to structure and format your webpage. Utilize appropriate HTML tags such as `<h1>` for headings, `<p>` for paragraphs, `<ul>` and `<ol>` for lists, `<a>` for links, `<img>` for images, and `<video>` for videos.
+
+4. File Naming: Save your HTML file with an appropriate filename, preferably reflecting your chosen topic (e.g., "my_hobby.html" or "travel_destination.html").
+
+5. Submission: Submit your completed HTML file to the instructor by the specified deadline. Ensure the file is properly formatted and includes all required elements.
+
+Note: Be creative and have fun while creating your webpage! Experiment with different HTML tags and elements to enhance the visual appeal and functionality of your site.
