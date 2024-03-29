@@ -1,0 +1,99 @@
+Lesson: Understanding Semantic HTML with a Focus on Accessibility and Performance
+
+Lesson reference: Understanding semantic HTML
+https://www.semrush.com/blog/semantic-html5-guide/
+
+
+Introduction:
+"Welcome, everyone! Today, we're going to delve into the fascinating world of semantic HTML and understand how it impacts both accessibility and performance in web development. Let's explore!"
+
+
+Overview
+- Definition of semantic HTML
+- Importance of semantic HTML
+- Relationship between semantic HTML, accessibility, and performance
+
+Explanation:
+"In web development, semantic HTML refers to the use of HTML elements that convey meaning beyond just their appearance. It's about structuring your content in a way that makes sense both to humans and machines."
+
+"For example, think of a newspaper. It's not just a jumble of words; it's organized into sections like headlines, articles, and advertisements. Similarly, semantic HTML helps us organize our web content in a meaningful way."
+
+Resource:
+- [MDN Web Docs: Semantic HTML](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
+
+Semantic HTML Overview:
+"Now, let's take a closer look at some common semantic HTML elements."
+
+Common Semantic HTML Elements
+- `<header>`
+- `<nav>`
+- `<main>`
+- `<section>`
+- `<article>`
+- `<aside>`
+- `<footer>`
+- `<time>`
+
+Explanation:
+"These elements aren't just for styling; they serve specific purposes in structuring our content."
+
+- `<header>`: Used for introductory content or navigation links at the top of a webpage.
+- `<nav>`: Represents a section of navigation links.
+- `<main>`: Contains the primary content of the webpage.
+- `<section>`: Groups related content together.
+- `<article>`: Represents a self-contained piece of content, like a blog post or news article.
+- `<aside>`: Contains content tangentially related to the main content, such as sidebars or pull quotes.
+- `<footer>`: Contains footer information, such as copyright details or contact information.
+- `<time>`: Represents a specific time or date, useful for marking up events or publication dates.
+
+Real-Life Example:
+"Imagine you're reading a blog post online. The `<header>` might contain the blog's logo and navigation links. The `<article>` would contain the main content of the blog post, while the `<footer>` might include information about the author and publication date."
+
+Resource:
+- [HTML5 Doctor: Understanding Semantics](http://html5doctor.com/element-index/)
+
+Accessibility:
+"Now, let's discuss accessibility and how semantic HTML plays a crucial role in making our websites accessible to everyone, including those with disabilities."
+
+Accessibility and Semantic HTML
+- Importance of accessibility
+- How semantic HTML improves accessibility
+- ARIA roles and attributes
+
+Explanation:
+"Accessibility ensures that people with disabilities can perceive, understand, navigate, and interact with websites effectively. Semantic HTML contributes to accessibility by providing structure and context to our content."
+
+"For example, when a screen reader encounters a `<nav>` element, it knows that it's dealing with navigation links and can provide appropriate navigation options to the user."
+
+Real-Life Example:
+"Imagine you're using a screen reader to navigate a website. Without semantic HTML, the screen reader might struggle to understand the structure of the page, making it challenging for you to find the information you need."
+
+Resource:
+- [WebAIM: Introduction to Web Accessibility](https://webaim.org/intro/)
+
+Performance:
+"Finally, let's talk about performance. Semantic HTML not only improves accessibility but also contributes to the overall performance of our websites."
+
+Performance and Semantic HTML
+- Importance of website performance
+- How semantic HTML improves performance
+- Best practices for efficient markup
+
+Explanation:
+"Website performance is crucial for user experience and SEO. Semantic HTML helps improve performance by making our code more readable and maintainable, which can lead to faster load times and better search engine rankings."
+
+"By using semantic elements appropriately and avoiding unnecessary markup, we can create leaner, more efficient web pages."
+
+Real-Life Example:
+"Imagine you're visiting a website that takes forever to load. Chances are, it's cluttered with unnecessary code and lacks proper semantic structure. By optimizing the HTML and using semantic elements, we can significantly improve the website's performance."
+
+Resource:
+- [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
+
+Conclusion:
+"Today, we've explored the power of semantic HTML and its impact on accessibility and performance. By using semantic elements effectively, we can create websites that are not only accessible to everyone but also performant and efficient."
+
+"Remember to apply these principles in your own web development projects and strive to make the web a more inclusive and user-friendly place."
+
+"Thank you for joining me today! If you have any questions or need further clarification, feel free to ask."
+
