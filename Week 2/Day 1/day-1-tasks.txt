@@ -1,0 +1,36 @@
+Basic Syntax of CSS
+These exercises and quiz questions help reinforce the basic syntax of CSS, including selectors, properties, and values, providing students with practical experience and assessment opportunities.
+
+Task:
+Practice writing CSS rules with basic syntax to style HTML elements.
+
+Instructions:
+1. Open your text editor and create a new CSS file named "styles.css".
+2. Create some content using heading(3 heading tags), paragraph(3 paragraph tags) and image (3 image tags)
+3. Write CSS rules to apply the following styles:
+   - Set the text color of all paragraphs (`<p>` elements) to blue.
+   - Make all headings (`<h1>`, `<h2>`, `<h3>`) bold.
+   - Add a border to images (`<img>` elements) with a solid style and black color.
+4. Save the CSS file in the same directory as your HTML files.
+5. Link the CSS file to an HTML file to see the styles applied.
+
+
+Quiz:
+
+1. What is the correct syntax for declaring a CSS rule?
+   - A) `selector { property: value; }`
+   - B) `property: value;`
+   - C) `value: property;`
+   - D) `selector (property: value);`
+
+2. Which CSS selector targets all paragraphs in an HTML document?
+   - A) `#paragraph`
+   - B) `.paragraph`
+   - C) `paragraph`
+   - D) `p`
+
+3. What property is used to make text bold in CSS?
+   - A) `font-weight`
+   - B) `font-style`
+   - C) `text-decoration`
+   - D) `font-color`

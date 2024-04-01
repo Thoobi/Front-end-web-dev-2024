@@ -1,0 +1,38 @@
+Styling Text, Links, and Backgrounds
+These exercises and quiz questions provide hands-on practice and assessment opportunities for students to apply CSS styles to text, links, and backgrounds, reinforcing their understanding of CSS properties and their usage.
+
+Task:
+Apply CSS styles to modify the appearance of text, links, and backgrounds in a webpage.
+
+Instructions:
+1. Open your text editor and create a new HTML file named "week2_exercise.html".
+2. Link the HTML file to an external CSS file named "styles.css".
+3. Create a heading and paragraph inside your html file
+4. Use CSS to apply the following styles:
+   - Style the text inside `<h1>` elements to be red and centered.
+   - Make all links (`<a>` elements) underlined and change their color to blue.
+   - Set the background color of the page to light gray.
+5. Save both files in the same directory.
+6. Open the HTML file in a web browser to view the styled webpage.
+7. Share your solution with the class and instructor
+
+
+Quiz:
+
+1. What CSS property is used to change the color of text?
+   - A) `background-color`
+   - B) `font-style`
+   - C) `color`
+   - D) `text-decoration`
+
+2. How can you underline links using CSS?
+   - A) `text-decoration: underline;`
+   - B) `font-weight: bold;`
+   - C) `text-align: center;`
+   - D) `color: blue;`
+
+3. Which CSS property is used to set the background color of a webpage?
+   - A) `color`
+   - B) `background-color`
+   - C) `font-size`
+   - D) `text-align`

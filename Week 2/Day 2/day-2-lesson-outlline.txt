@@ -1,0 +1,47 @@
+Day 2: Styling text, links, and backgrounds
+
+Selectors: https://www.w3schools.com/css/css_selectors.asp
+- Selectors target HTML elements to apply styles.
+- Element selectors target specific HTML elements (e.g., `p`, `h1`, `div`).
+- Class selectors target elements with a specific class (e.g., `.classname`).
+- ID selectors target elements with a specific ID (e.g., `#idname`).
+- Attribute selectors target elements based on their attributes (e.g., `[attribute=value]`).
+
+Properties and Values:
+- CSS properties define the visual aspects of an element (e.g., `color`, `font-size`, `background-color`).
+- Properties are followed by a colon (`:`) and values are specified after the colon.
+- Values can be keywords, numerical values, colors, or other units (e.g., pixels, percentages).
+
+Applying Styles:
+- Styles are applied to HTML elements using CSS rules.
+- Examples of styling text, backgrounds, borders, margins, padding, and more.
+
+Interactive Exercises:
+
+1. Selector Practice:
+   - Write CSS selectors to target different HTML elements provided.
+   - Use various types of selectors (element, class, ID, attribute) where applicable.
+
+2. Styling Challenge:
+   - Apply different styles to HTML elements in a given webpage.
+   - Experiment with different properties and values to achieve specific visual effects.
+
+Brain teaser: Internal css vs external css
+
+**Assignment:**
+
+Create a simple webpage containing text and images. Apply styles using CSS to customize the appearance of text (e.g., font size, color) and images (e.g., size, border). Submit the HTML and CSS files for review.
+
+**Tasks:**
+
+1. Create a new HTML document and link it to an external CSS file.
+2. Use different types of CSS selectors to style HTML elements.
+3. Experiment with various CSS properties and values to apply styles.
+4. Apply CSS styles to text and images to customize their appearance.
+5. Test the webpage in a web browser to see how the styles are applied.
+
+**Resources:**
+- [MDN Web Docs: CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [W3Schools: CSS Tutorial](https://www.w3schools.com/css/default.asp)
+
+By completing these exercises and tasks, you'll gain a solid understanding of basic CSS syntax and how to apply styles to HTML elements, setting a foundation for more advanced CSS concepts in subsequent lessons.

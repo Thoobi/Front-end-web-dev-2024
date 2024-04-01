@@ -1,0 +1,44 @@
+Understanding CSS selectors and specificity
+These tasks provide opportunities for practicing CSS selectors and specificity by applying different styles to HTML elements based on their classes, IDs, and relationships within the document structure.
+
+**HTML File (index.html):**
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Selectors and Specificity</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header id="header">
+        <h1>Welcome to CSS Selectors and Specificity</h1>
+    </header>
+    <div class="container">
+        <p>This is a paragraph inside a div.</p>
+        <p class="highlight">This paragraph has a highlight class.</p>
+    </div>
+    <footer>
+        <p>This is a paragraph in the footer.</p>
+    </footer>
+</body>
+</html>
+```
+
+Tasks for Styling:
+
+1. Task 1: Target Headings
+   - Style all `<h1>` elements to have a font color of red.
+
+2. Task 2: Target Paragraphs
+   - Style all paragraphs inside the `.container` class to have a font size of 16 pixels and a background color of light gray.
+
+3. Task 3: Target Specific Element
+   - Style the paragraph inside the `<footer>` to have italic font style and a font color of green.
+
+4. Task 4: Target Class
+   - Style paragraphs with the class `.highlight` to have a font weight of bold and a text color of blue.
+
+5. Task 5: Target ID
+   - Style the header with the ID `header` to have a background color of light yellow and a font size of 24 pixels.

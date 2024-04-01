@@ -1,0 +1,54 @@
+Using floats and positioning for layout
+
+These tasks allow students to practice using floats and positioning to create layouts, which are common techniques in CSS for designing responsive and flexible web pages.
+**HTML File (index.html):**
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Floats and Positioning</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Header</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Services</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+    </nav>
+    <main>
+        <article>
+            <h2>Article Title</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae nisi at magna feugiat congue. Fusce rutrum tempor odio, id facilisis justo tempor vel. Nulla facilisi.</p>
+        </article>
+    </main>
+    <aside>
+        <h2>Sidebar</h2>
+        <p>Content for the sidebar goes here.</p>
+    </aside>
+    <footer>
+        <p>Footer content goes here.</p>
+    </footer>
+</body>
+</html>
+```
+
+Tasks for Styling:
+
+1. Task 1: Float Elements
+   - Float the `nav` element to the left and the `aside` element to the right.
+   - Ensure that the `nav` and `aside` elements are displayed side by side horizontally.
+
+2. Task 2: Positioning Article
+   - Position the `article` element relative to the main content area.
+   - Place the `article` element to the left of the `aside` element.
+
+3. Task 3: Styling Footer
+   - Style the `footer` element to have a background color of light gray and padding of 10 pixels.

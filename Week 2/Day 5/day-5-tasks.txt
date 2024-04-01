@@ -1,0 +1,62 @@
+Creating layouts with CSS box model
+These tasks provide hands-on practice for students to understand and apply the CSS box model, which includes margins, padding, and borders, to create flexible and visually appealing layouts.
+
+**HTML File (index.html):**
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Box Model</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Header</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Services</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+    </nav>
+    <main>
+        <article>
+            <h2>Article Title</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae nisi at magna feugiat congue. Fusce rutrum tempor odio, id facilisis justo tempor vel. Nulla facilisi.</p>
+        </article>
+    </main>
+    <aside>
+        <h2>Sidebar</h2>
+        <p>Content for the sidebar goes here.</p>
+    </aside>
+    <footer>
+        <p>Footer content goes here.</p>
+    </footer>
+</body>
+</html>
+```
+
+Tasks for Styling:
+
+1. Task 1: Adjust Box Model for Header
+   - Add a top margin of 20 pixels and a bottom margin of 10 pixels to the header.
+
+2. Task 2: Adjust Box Model for Navigation
+   - Set the width of the navigation to 20% of the viewport width.
+   - Add padding of 10 pixels to all sides of the navigation.
+
+3. Task 3: Adjust Box Model for Article
+   - Set the width of the article to 70% of the viewport width.
+   - Add padding of 20 pixels to the left and right sides of the article.
+
+4. Task 4: Adjust Box Model for Sidebar
+   - Set the width of the sidebar to 25% of the viewport width.
+   - Add padding of 10 pixels to all sides of the sidebar.
+   - Add a border of 1 pixel solid black around the sidebar.
+
+5. Task 5: Adjust Box Model for Footer
+   - Add a top margin of 10 pixels and a bottom margin of 20 pixels to the footer.

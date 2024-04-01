@@ -1,0 +1,23 @@
+Day 1: Basic CSS Syntax
+
+Lesson references:
+https://www.w3schools.com/css/
+https://www.w3schools.com/css/css_intro.asp (Introduction to CSS)
+
+
+Introduction to CSS:
+- CSS (Cascading Style Sheets) is a style sheet language used for describing the presentation of a document written in HTML.
+- It defines how HTML elements should be displayed on the screen, in print, or in other media.
+
+Linking CSS to HTML:
+- CSS can be linked to an HTML document using the `<link>` element in the `<head>` section.
+  ```html
+  <link rel="stylesheet" href="styles.css">
+  ```
+- Alternatively, CSS styles can be applied inline within HTML elements using the `style` attribute or internally within the `<style>` tags in the `<head>` section of the HTML document.
+
+
+Basic Syntax:https://www.w3schools.com/css/css_syntax.asp
+- CSS rules consist of a selector and a declaration block.
+- The selector identifies the HTML element(s) to which the styles will be applied, and the declaration block contains one or more declarations separated by semicolons.
+- Each declaration consists of a property and a value, separated by a colon.
