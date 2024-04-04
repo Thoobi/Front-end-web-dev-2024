@@ -1,2 +1,16 @@
 Day 4:Understanding CSS selectors and specificity 
 https://www.w3schools.com/css/css_specificity.asp
+
+CSS specificity calculator
+https://polypane.app/css-specificity-calculator/#selector=
+
+General class quizzes and exercises
+https://www.w3schools.com/css/exercise.asp?filename=exercise_selectors1
+https://codepen.io/pehaa/pen/dEpvXN
+https://www.khanacademy.org/computing/computer-programming/html-css/more-css-selectors/e/quiz--css-specificity-rules
+
+
+Interview questions
+https://www.simplilearn.com/tutorials/css-tutorial/css-interview-questions#choose_the_right_software_development_program
+
+

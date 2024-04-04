@@ -1,2 +1,4 @@
 Day 3: Creating layouts with CSS box model 
 https://www.w3schools.com/css/css_boxmodel.asp
+
+Class exercise: https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Box_Model_Tasks
