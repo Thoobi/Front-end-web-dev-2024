@@ -1,6 +1,6 @@
-Using floats and positioning for layout
+Understanding CSS selectors and specificity
+These tasks provide opportunities for practicing CSS selectors and specificity by applying different styles to HTML elements based on their classes, IDs, and relationships within the document structure.
 
-These tasks allow students to practice using floats and positioning to create layouts, which are common techniques in CSS for designing responsive and flexible web pages.
 **HTML File (index.html):**
 ```html
 <!DOCTYPE html>
@@ -8,33 +8,19 @@ These tasks allow students to practice using floats and positioning to create la
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Floats and Positioning</title>
+    <title>CSS Selectors and Specificity</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <header>
-        <h1>Header</h1>
+    <header id="header">
+        <h1>Welcome to CSS Selectors and Specificity</h1>
     </header>
-    <nav>
-        <ul>
-            <li><a href="#">Home</a></li>
-            <li><a href="#">About</a></li>
-            <li><a href="#">Services</a></li>
-            <li><a href="#">Contact</a></li>
-        </ul>
-    </nav>
-    <main>
-        <article>
-            <h2>Article Title</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae nisi at magna feugiat congue. Fusce rutrum tempor odio, id facilisis justo tempor vel. Nulla facilisi.</p>
-        </article>
-    </main>
-    <aside>
-        <h2>Sidebar</h2>
-        <p>Content for the sidebar goes here.</p>
-    </aside>
+    <div class="container">
+        <p>This is a paragraph inside a div.</p>
+        <p class="highlight">This paragraph has a highlight class.</p>
+    </div>
     <footer>
-        <p>Footer content goes here.</p>
+        <p>This is a paragraph in the footer.</p>
     </footer>
 </body>
 </html>
@@ -42,13 +28,22 @@ These tasks allow students to practice using floats and positioning to create la
 
 Tasks for Styling:
 
-1. Task 1: Float Elements
-   - Float the `nav` element to the left and the `aside` element to the right.
-   - Ensure that the `nav` and `aside` elements are displayed side by side horizontally.
+1. Task 1: Target Headings
+   - Style all `<h1>` elements to have a font color of red.
 
-2. Task 2: Positioning Article
-   - Position the `article` element relative to the main content area.
-   - Place the `article` element to the left of the `aside` element.
+2. Task 2: Target Paragraphs
+   - Style all paragraphs inside the `.container` class to have a font size of 16 pixels and a background color of light gray.
 
-3. Task 3: Styling Footer
-   - Style the `footer` element to have a background color of light gray and padding of 10 pixels.
+3. Task 3: Target Specific Element
+   - Style the paragraph inside the `<footer>` to have italic font style and a font color of green.
+
+4. Task 4: Target Class
+   - Style paragraphs with the class `.highlight` to have a font weight of bold and a text color of blue.
+
+5. Task 5: Target ID
+   - Style the header with the ID `header` to have a background color of light yellow and a font size of 24 pixels.
+
+
+
+
+
