@@ -1,5 +1,17 @@
-Task 3: Create a CSS3 Animated Button
-Task Description:
-Design a button with CSS3 animations to create an engaging user interaction. Apply animations such as scale, color change, or shadow effects to the button when hovered over or clicked. Use CSS3 animation properties like @keyframes and animation to achieve the desired effect.
+Task: Bootstrap 5 Introduction
 
-I have included a starter code (html and css) that you can easily modify
+Instructions:
+In this task, you will get familiar with Bootstrap 5, a popular front-end framework for building responsive and mobile-first websites. Follow the instructions below to complete the task.
+
+Task Description:
+
+Create and open an  index.html file in a text editor or an integrated development environment (IDE).
+Link Bootstrap 5 CSS and JavaScript files using the provided CDN links in the <head> section of the HTML file.
+Inside the <body> tag, use the Bootstrap 5 grid system to create a responsive layout with a container class.
+Add a heading (<h1>) with the text "Welcome to Bootstrap 5" inside the container.
+Add a paragraph (<p>) below the heading with the text "Explore the power of Bootstrap 5 to create modern and responsive web designs."
+Insert a button (<button>) below the paragraph with the text "Get Started" and the Bootstrap class btn btn-primary for styling.
+Save the changes and open the index.html file in a web browser to view the Bootstrap 5 introduction page.
+
+Task Objective:
+The objective of this task is to introduce you to Bootstrap 5 and its basic usage for creating responsive web layouts and styling elements. Explore the provided starter code and experiment with different Bootstrap components and classes to get hands-on experience with the framework.

@@ -5,6 +5,13 @@ https://www.w3schools.com/css/css3_animations.asp
 https://www.w3schools.com/css/css3_transitions.asp
 
 
+CSS3 introduces advanced styling features such as gradients, shadows, transforms, and transitions.
+Gradients: Create smooth color transitions.
+Shadows: Add depth and dimension to elements.
+Transforms: Rotate, scale, skew, and translate elements in 2D or 3D space.
+Transitions: Apply smooth animations to CSS properties.
+Example: Adding gradients and shadows to elements, transforming elements on hover.
+
 CSS animations and transitions allow us to add movement and interactivity to web elements.
 Animation: Define keyframes to specify the animation sequence.
 Transition: Specify the property to animate and its duration.
