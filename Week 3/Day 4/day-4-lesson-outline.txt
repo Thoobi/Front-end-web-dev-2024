@@ -1,0 +1,11 @@
+Day 4. Creating Animations and Transitions with CSS:
+
+Lesson references: 
+https://www.w3schools.com/css/css3_animations.asp
+https://www.w3schools.com/css/css3_transitions.asp
+
+
+CSS animations and transitions allow us to add movement and interactivity to web elements.
+Animation: Define keyframes to specify the animation sequence.
+Transition: Specify the property to animate and its duration.
+Example: Creating animated buttons, sliding navigation menus, and fade-in effects.

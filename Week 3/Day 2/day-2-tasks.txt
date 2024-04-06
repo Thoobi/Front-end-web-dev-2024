@@ -1,0 +1,10 @@
+Task 2: 
+A. Create a Blog Layout Using CSS Grid
+B. Design a Responsive Pricing Table Using Flexbox
+
+Task Description:
+Design a blog layout using CSS Grid. Each blog post should be displayed in a grid format with two columns. Apply appropriate styling and spacing to create an aesthetically pleasing layout.
+
+Design a Responsive Pricing Table Using Flexbox. Apply appropriate styling to create an aesthetically pleasing layout.
+
+I have included a Starter Code (blog.html & pricing.html) in this folder

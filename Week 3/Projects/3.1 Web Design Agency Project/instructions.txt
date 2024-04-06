@@ -1,0 +1,23 @@
+Create a beautiful website for a web design agency
+
+3.1 Media query - Web design agency project
+
+We're going to be creating a beautiful website for a web design agency.
+
+I have included the html, css and image files (check the assets folder) in this folder
+
+Usually with web design agencies, you'll see them demonstrating their best work, but their websites are usually quite simple.
+
+We're going to be creating something with a big block of text telling people what they do and then just simple clean design.
+
+We're going to be a creative design agency at dev.com (name the website whatever you want) and we've got two little blocks of text that describes a little bit about our work. (Feel free to modify the content as you wish)
+
+And finally at the bottom we've got a footer with our company motto Create, Develop design.
+
+Your task is to make sure that when it's displayed on a smaller screen, namely an iPhone, that our blocks now change and are centered and are responsive to make better use of the screen real estate.
+
+We want to make sure that when the screen size is a certain size, the blocks stack on top of each other.
+
+So this is going to require a little bit of the knowledge that you learn this lesson about the display, property floats and also responsiveness.
+
+Your task is to make this website mobile responsive using media queries

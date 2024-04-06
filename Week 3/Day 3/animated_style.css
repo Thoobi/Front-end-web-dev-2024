@@ -1,0 +1,12 @@
+.animated-button {
+    /* style the button and include transition */
+}
+
+.animated-button:hover {
+ /* add a back-ground color and transform property */
+}
+
+.animated-button:active {
+    /* add a transform property */
+
+}

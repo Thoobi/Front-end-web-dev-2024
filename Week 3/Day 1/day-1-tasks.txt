@@ -1,0 +1,5 @@
+Task 1: Create a Responsive Portfolio Website
+Task Description:
+Create a responsive portfolio website showcasing your personal projects and contact information. Apply everything learned from basic HTML structure to advanced CSS techniques including media queries, flexbox, and transitions to ensure the website looks good on all devices.
+
+I have included a Starter Code (index.html) in this folder

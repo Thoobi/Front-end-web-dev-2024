@@ -1,0 +1,5 @@
+Task 3: Create a CSS3 Animated Button
+Task Description:
+Design a button with CSS3 animations to create an engaging user interaction. Apply animations such as scale, color change, or shadow effects to the button when hovered over or clicked. Use CSS3 animation properties like @keyframes and animation to achieve the desired effect.
+
+I have included a starter code (html and css) that you can easily modify

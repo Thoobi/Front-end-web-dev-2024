@@ -1,0 +1,11 @@
+Day 2. Creating Flexible Layouts with CSS Grid and Flexbox:
+Lesson references:
+https://www.w3schools.com/css/css3_flexbox.asp
+https://www.w3schools.com/css/css_grid.asp
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout
+
+
+CSS Grid and Flexbox are powerful layout tools that provide flexibility and control over the arrangement of elements.
+CSS Grid: Defines grid layout in rows and columns.
+Flexbox: Provides a flexible way to distribute space among items in a container.

@@ -1,0 +1,14 @@
+Day 3. Advanced Styling Techniques with CSS3:
+Lesson references:
+https://www.w3schools.com/css/css_rwd_frameworks.asp
+https://youtu.be/4-yT6W2TleE?si=2UTEkj5UAY65jjhu
+https://youtu.be/8WuEZNSRSBU?si=RVrQRb0HQNuY-6T8
+https://www.w3schools.com/css/css3_gradients.asp
+
+
+CSS3 introduces advanced styling features such as gradients, shadows, transforms, and transitions.
+Gradients: Create smooth color transitions.
+Shadows: Add depth and dimension to elements.
+Transforms: Rotate, scale, skew, and translate elements in 2D or 3D space.
+Transitions: Apply smooth animations to CSS properties.
+Example: Adding gradients and shadows to elements, transforming elements on hover.
