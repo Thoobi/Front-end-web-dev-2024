@@ -2,6 +2,8 @@ Day 1. Responsive Web Design with Media Queries:
 Lesson references: 
 https://www.w3schools.com/css/css_rwd_intro.asp
 
+https://www.w3schools.com/css/css_rwd_viewport.asp
+
 https://www.w3schools.com/css/css_rwd_mediaqueries.asp
 
 Media queries allow us to apply different CSS styles based on the characteristics of the device or viewport.
