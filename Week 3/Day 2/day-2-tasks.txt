@@ -8,3 +8,8 @@ Design a blog layout using CSS Grid. Each blog post should be displayed in a gri
 Design a Responsive Pricing Table Using Flexbox. Apply appropriate styling to create an aesthetically pleasing layout.
 
 I have included a Starter Code (blog.html & pricing.html) in this folder
+
+Task 2.1
+In the flex.html file, you are required to arrange the nav links horizontally with some space around them
+
+you will make the result be like the one in the goal.png image file
