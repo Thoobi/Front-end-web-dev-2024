@@ -1,0 +1,5 @@
+Week 7 Frontend Frameworks
+Day 1. Introduction to popular frontend frameworks such as React, Vue, or Angular
+Lesson reference:
+https://www.freecodecamp.org/news/front-end-javascript-development-react-angular-vue-compared/
+https://www.browserstack.com/guide/angular-vs-react-vs-vue

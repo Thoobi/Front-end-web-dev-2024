@@ -3,3 +3,8 @@ Lesson references:
 https://www.w3schools.com/js/js_function_definition.asp
 https://www.w3schools.com/js/js_object_definition.asp
 https://www.w3schools.com/js/js_loop_for.asp
+
+Notes:
+In JavaScript, a class is like a blueprint for creating objects with certain properties and behaviors. An instance of a class is simply an object created based on that blueprint. Think of it like baking cookies: the class is the recipe, and each cookie you bake according to that recipe is an instance of the class. Each instance has its own set of properties and can perform actions defined by the class.
+
+In JavaScript, a constructor is a special method within a class that gets called automatically when you create a new instance (object) of that class. Its main job is to initialize the object's properties and set them to initial values.
