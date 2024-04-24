@@ -1,0 +1,28 @@
+Exercises on JQuery
+Try to answer these questions. Solutions will be available by weekend.
+
+A. What is a selector in JQuery?  Click event of any element ( or button )? 
+1. On click of a button, welcome message should display.
+2. There are five input textboxes. On click of the input box , the background colour should change to yellow. ( Hint : use this )
+3. Remove and add different style to the element by using JQuery. Create two style classes and by default apply first one to one element. On click of a button change the elements associated property to other style.
+4. Toggle the style properties of the element on click
+5. Create one button and a textbox. On click of the button the text written in text box should display on the button.
+
+B. Using show() hide() and toggle()
+1. Create a div tag and it should display Welcome message (by using JQuery )
+2. Create two div tags and assign yellow as background colour to both of them by using JQuery.
+3. Display and hide message shown in the div tag on click of the buttons. You can use Jquery show hide.
+4. Display and hide message by using a single button . You can use Jquery toggle().
+5. Create a div tag and on click of a button it should display your name.
+
+C. Textarea counter & progress bar
+1. Create one textarea and one button. On click of the button the length of text entered inside the textarea will be displayed.
+2. In the above code show the counter as and when text is entered.
+3. Use one progress bar for showing the number of text entered.
+
+D. Event Management
+1. Create one style class and name it error, give its border colour as red and background colour as yellow. Apply this class to the text box when the focus is moved out of it and if entered data is more than 10.
+2. Create two textboxes and one button with + on it. On click of the button you should display sum of the two entered numbers in textbox. Similarly add Subtract, Multiple and Division buttons.
+3. Your buttons in above code will remain in disable state till both the inputs are filled. ( Use one function to enable or disable buttons. Trigger that function with on Blur events of the textboxes )
+
+E. 
