@@ -1,0 +1,79 @@
+This task challenges students to apply their knowledge of event handling and DOM manipulation in JavaScript to create an interactive webpage. It encourages problem-solving and creativity by requiring them to toggle between different states of the monkey emoji based on user interaction.
+
+TO BE SUBMITTED ON OR BEFORE 3RD APRIL 2024
+
+Exercise: Toggle Monkey's Emotions
+
+Objective:
+To practice event handling and DOM manipulation in JavaScript by toggling the emotions of a monkey emoji.
+
+  Task:  
+You are tasked with creating a webpage that displays a monkey emoji. When the user clicks on the monkey emoji, it should toggle between displaying closed eyes and closed ears.
+
+  Instructions:  
+1. In the HTML file named `monkeyface.html`, I have included a starter code.
+2. Add the necessary HTML structure to display a monkey emoji. 
+3. I have included a JavaScript file named `script.js`. (remember to link the page properly)
+4. Implement JavaScript code to handle the click event on the monkey emoji and toggle its emotions accordingly.
+5. Test your webpage to ensure that clicking on the monkey emoji switches between closed eyes and closed ears.
+
+  Requirements:  
+- Use event listeners to detect clicks on the monkey emoji.
+- Toggle between displaying the monkey with closed eyes and closed ears when clicked.
+- Ensure the page functions correctly across different browsers.
+
+  Hints:  
+- You may need to use CSS classes to control the display of different parts of the monkey emoji.
+- Utilize the `classList` property in JavaScript to add or remove CSS classes dynamically.
+- Test your code after each modification to ensure it behaves as expected.
+
+  Bonus:  
+- Add additional emotions or facial expressions to the monkey emoji and toggle between them.
+- Implement smooth transitions/animations when toggling between different states of the monkey emoji.
+
+
+
+  Submission Instructions:  
+
+1. Fork the provided repository from GitHub: [Link to Repository](https://github.com/your/repository)
+
+2. Clone the forked repository to your local machine:
+   ```
+   git clone https://github.com/your-username/repository.git
+   ```
+
+3. Create a new branch from the `main` branch. Use a descriptive title for your task:
+   ```
+   git checkout -b monkey-emotions-task
+   ```
+
+4. Create the necessary files within your branch:
+   - `index.html`: HTML structure to display the monkey emoji.
+   - `styles.css`: CSS styling for the monkey emoji and any additional elements.
+   - `script.js`: JavaScript code to handle the click event and toggle the monkey's emotions.
+
+5. Implement the required functionality according to the task instructions.
+
+6. Test your webpage to ensure it functions correctly in different browsers.
+
+7. Commit your changes and push them to your forked repository:
+   ```
+   git add .
+   git commit -m "Implemented monkey emotions toggling"
+   git push origin monkey-emotions-task
+   ```
+
+8. Once you're satisfied with your changes, create a pull request (PR) from your branch to the original repository's `main` branch.
+
+9. Title your pull request with the same title as your branch (e.g., "Monkey Emotions Task").
+
+10. Provide any additional information or explanations in the PR description if necessary.
+
+11. Submit the pull request for review.
+
+  Note:   Ensure that your code is well-documented, follows best practices, and adheres to the provided task requirements. Make sure to clean up any unnecessary files or code before submission.
+
+--- 
+
+
+
