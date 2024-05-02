@@ -1,0 +1,23 @@
+.closed {
+    display: none;
+}
+
+.container
+{
+    border: 2px dashed #0a0a0a;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    width: 70%;
+    margin: 100px auto;
+    align-content: center;
+    border-radius: 15px;
+}
+
+
+.emoji
+{
+    font-size: 10rem;
+    cursor: pointer;
+}
